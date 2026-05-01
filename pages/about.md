@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="(https://drive.google.com/file/d/1eW97A-J8b1oMfhtXBinSfn-eOCmizLre/view)" %}
+{% include feature/jumbotron.html objectid=cr019 %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
