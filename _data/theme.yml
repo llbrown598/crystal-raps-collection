@@ -97,9 +97,8 @@ bootswatch: sandstone
 base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#0d6efd"
-base-font-family: '"Great Vibes", cursive'
-font-cdn: <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
-# THEME ICONS [optional!]
+base-font-family: '"Sedgwick Ave Display", cursive'
+font-cdn: <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Sedgwick+Ave+Display&display=swap" rel="stylesheet"># THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/
 # the "icons" object below can override the default icons and add new icons
 # the default keys are icon-image, icon-audio, icon-video, icon-pdf, and icon-default
