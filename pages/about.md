@@ -14,6 +14,6 @@ credits: true
 
 ## About the Collection
 
-This site celebrates and center complete crystal gemstone designs by a handmade jeweler. Starting this creative journey in 2019, Linda Brown continues to create designs that help people access confidence, guidance, and their own power. Each crystal gemstone used was sourced ethically and each creation created with a purpose. 
+This site celebrates and center complete crystal gemstone designs by a handmade jeweler. Starting this creative journey in 2019 via Crystal Raps-- a handmade jewelry endeavor. Linda Brown continues to create designs that help people access confidence, guidance, and their own power. Each crystal gemstone used was sourced ethically and each creation created with a purpose. 
 
-{% include cb/about_the_about.md %} 
+
